@@ -1,2 +1,2 @@
 # Sushi Roll
-GameDev-club winter 2017 - All-you-can-eat before Sumo wrestle match
+GameDev-club winter 2017 - A trip to all-you-can-eat buffet before Sumo wrestle match
